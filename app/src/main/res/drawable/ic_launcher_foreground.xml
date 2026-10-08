@@ -1,0 +1,16 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Open book: two pages meeting at the spine. -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M30,38 L52,44 L52,74 L30,68 Z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M56,44 L78,38 L78,68 L56,74 Z" />
+    <path
+        android:fillColor="#9CD2E8"
+        android:pathData="M52,44 L56,44 L56,74 L52,74 Z" />
+</vector>

@@ -1,0 +1,475 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "title": "Python Programming",
+      "instructor": "John Smith",
+      "progress": 65,
+      "lessons": 20,
+      "lessonList": [
+        {
+          "id": 101,
+          "title": "Introduction",
+          "completed": true
+        },
+        {
+          "id": 102,
+          "title": "Installing Python & Tooling",
+          "completed": true
+        },
+        {
+          "id": 103,
+          "title": "Variables & Data Types",
+          "completed": true
+        },
+        {
+          "id": 104,
+          "title": "Operators",
+          "completed": true
+        },
+        {
+          "id": 105,
+          "title": "Strings in Depth",
+          "completed": true
+        },
+        {
+          "id": 106,
+          "title": "Lists & Tuples",
+          "completed": true
+        },
+        {
+          "id": 107,
+          "title": "Dictionaries & Sets",
+          "completed": true
+        },
+        {
+          "id": 108,
+          "title": "Conditionals",
+          "completed": true
+        },
+        {
+          "id": 109,
+          "title": "Loops",
+          "completed": true
+        },
+        {
+          "id": 110,
+          "title": "Comprehensions",
+          "completed": true
+        },
+        {
+          "id": 111,
+          "title": "Functions",
+          "completed": true
+        },
+        {
+          "id": 112,
+          "title": "Scope & Closures",
+          "completed": true
+        },
+        {
+          "id": 113,
+          "title": "Modules & Packages",
+          "completed": true
+        },
+        {
+          "id": 114,
+          "title": "File I/O",
+          "completed": false
+        },
+        {
+          "id": 115,
+          "title": "Exceptions",
+          "completed": false
+        },
+        {
+          "id": 116,
+          "title": "OOP: Classes & Objects",
+          "completed": false
+        },
+        {
+          "id": 117,
+          "title": "OOP: Inheritance",
+          "completed": false
+        },
+        {
+          "id": 118,
+          "title": "Decorators",
+          "completed": false
+        },
+        {
+          "id": 119,
+          "title": "Generators & Iterators",
+          "completed": false
+        },
+        {
+          "id": 120,
+          "title": "Testing with pytest",
+          "completed": false
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Generative AI",
+      "instructor": "Sarah Williams",
+      "progress": 40,
+      "lessons": 15,
+      "lessonList": [
+        {
+          "id": 201,
+          "title": "What Generative AI Is",
+          "completed": true
+        },
+        {
+          "id": 202,
+          "title": "Tokens & Embeddings",
+          "completed": true
+        },
+        {
+          "id": 203,
+          "title": "Transformer Intuition",
+          "completed": true
+        },
+        {
+          "id": 204,
+          "title": "Prompting Fundamentals",
+          "completed": true
+        },
+        {
+          "id": 205,
+          "title": "Few-shot & Chain of Thought",
+          "completed": true
+        },
+        {
+          "id": 206,
+          "title": "Structured Outputs",
+          "completed": true
+        },
+        {
+          "id": 207,
+          "title": "Retrieval Augmented Generation",
+          "completed": false
+        },
+        {
+          "id": 208,
+          "title": "Vector Databases",
+          "completed": false
+        },
+        {
+          "id": 209,
+          "title": "Function & Tool Calling",
+          "completed": false
+        },
+        {
+          "id": 210,
+          "title": "Agents & Orchestration",
+          "completed": false
+        },
+        {
+          "id": 211,
+          "title": "Evaluating LLM Output",
+          "completed": false
+        },
+        {
+          "id": 212,
+          "title": "Guardrails & Safety",
+          "completed": false
+        },
+        {
+          "id": 213,
+          "title": "Fine-tuning vs Prompting",
+          "completed": false
+        },
+        {
+          "id": 214,
+          "title": "Cost & Latency Budgets",
+          "completed": false
+        },
+        {
+          "id": 215,
+          "title": "Shipping to Production",
+          "completed": false
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Full Stack Development",
+      "instructor": "David Brown",
+      "progress": 25,
+      "lessons": 28,
+      "lessonList": [
+        {
+          "id": 301,
+          "title": "How the Web Works",
+          "completed": true
+        },
+        {
+          "id": 302,
+          "title": "HTML Semantics",
+          "completed": true
+        },
+        {
+          "id": 303,
+          "title": "CSS Layout",
+          "completed": true
+        },
+        {
+          "id": 304,
+          "title": "Flexbox & Grid",
+          "completed": true
+        },
+        {
+          "id": 305,
+          "title": "JavaScript Basics",
+          "completed": true
+        },
+        {
+          "id": 306,
+          "title": "DOM & Events",
+          "completed": true
+        },
+        {
+          "id": 307,
+          "title": "ES Modules",
+          "completed": true
+        },
+        {
+          "id": 308,
+          "title": "Async JavaScript",
+          "completed": false
+        },
+        {
+          "id": 309,
+          "title": "Fetch & REST",
+          "completed": false
+        },
+        {
+          "id": 310,
+          "title": "React Components",
+          "completed": false
+        },
+        {
+          "id": 311,
+          "title": "React State",
+          "completed": false
+        },
+        {
+          "id": 312,
+          "title": "React Hooks",
+          "completed": false
+        },
+        {
+          "id": 313,
+          "title": "Client Routing",
+          "completed": false
+        },
+        {
+          "id": 314,
+          "title": "Forms & Validation",
+          "completed": false
+        },
+        {
+          "id": 315,
+          "title": "Node.js Basics",
+          "completed": false
+        },
+        {
+          "id": 316,
+          "title": "Express Routing",
+          "completed": false
+        },
+        {
+          "id": 317,
+          "title": "Middleware & Auth",
+          "completed": false
+        },
+        {
+          "id": 318,
+          "title": "SQL Fundamentals",
+          "completed": false
+        },
+        {
+          "id": 319,
+          "title": "Schema Design",
+          "completed": false
+        },
+        {
+          "id": 320,
+          "title": "ORMs & Migrations",
+          "completed": false
+        },
+        {
+          "id": 321,
+          "title": "Caching",
+          "completed": false
+        },
+        {
+          "id": 322,
+          "title": "File Uploads",
+          "completed": false
+        },
+        {
+          "id": 323,
+          "title": "WebSockets",
+          "completed": false
+        },
+        {
+          "id": 324,
+          "title": "Testing the Stack",
+          "completed": false
+        },
+        {
+          "id": 325,
+          "title": "Docker Basics",
+          "completed": false
+        },
+        {
+          "id": 326,
+          "title": "CI/CD Pipelines",
+          "completed": false
+        },
+        {
+          "id": 327,
+          "title": "Deploying to the Cloud",
+          "completed": false
+        },
+        {
+          "id": 328,
+          "title": "Monitoring & Logs",
+          "completed": false
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Data Structures & Algorithms",
+      "instructor": "Priya Nair",
+      "progress": 0,
+      "lessons": 24,
+      "lessonList": [
+        {
+          "id": 401,
+          "title": "Big-O Notation",
+          "completed": false
+        },
+        {
+          "id": 402,
+          "title": "Arrays",
+          "completed": false
+        },
+        {
+          "id": 403,
+          "title": "Linked Lists",
+          "completed": false
+        },
+        {
+          "id": 404,
+          "title": "Stacks",
+          "completed": false
+        },
+        {
+          "id": 405,
+          "title": "Queues",
+          "completed": false
+        },
+        {
+          "id": 406,
+          "title": "Hash Tables",
+          "completed": false
+        },
+        {
+          "id": 407,
+          "title": "Recursion",
+          "completed": false
+        },
+        {
+          "id": 408,
+          "title": "Sorting: Merge & Quick",
+          "completed": false
+        },
+        {
+          "id": 409,
+          "title": "Binary Search",
+          "completed": false
+        },
+        {
+          "id": 410,
+          "title": "Trees",
+          "completed": false
+        },
+        {
+          "id": 411,
+          "title": "Binary Search Trees",
+          "completed": false
+        },
+        {
+          "id": 412,
+          "title": "Heaps & Priority Queues",
+          "completed": false
+        },
+        {
+          "id": 413,
+          "title": "Tries",
+          "completed": false
+        },
+        {
+          "id": 414,
+          "title": "Graphs: Representation",
+          "completed": false
+        },
+        {
+          "id": 415,
+          "title": "BFS & DFS",
+          "completed": false
+        },
+        {
+          "id": 416,
+          "title": "Shortest Paths",
+          "completed": false
+        },
+        {
+          "id": 417,
+          "title": "Union Find",
+          "completed": false
+        },
+        {
+          "id": 418,
+          "title": "Greedy Algorithms",
+          "completed": false
+        },
+        {
+          "id": 419,
+          "title": "Dynamic Programming: 1D",
+          "completed": false
+        },
+        {
+          "id": 420,
+          "title": "Dynamic Programming: 2D",
+          "completed": false
+        },
+        {
+          "id": 421,
+          "title": "Backtracking",
+          "completed": false
+        },
+        {
+          "id": 422,
+          "title": "Bit Manipulation",
+          "completed": false
+        },
+        {
+          "id": 423,
+          "title": "Sliding Window",
+          "completed": false
+        },
+        {
+          "id": 424,
+          "title": "Interview Patterns Review",
+          "completed": false
+        }
+      ]
+    }
+  ]
+}

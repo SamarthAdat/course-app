@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">Course App</string>
+
+    <!-- Login -->
+    <string name="login_title">Welcome back</string>
+    <string name="login_subtitle">Sign in to continue your learning</string>
+    <string name="login_email_label">Email</string>
+    <string name="login_password_label">Password</string>
+    <string name="login_submit">Log in</string>
+    <string name="login_show_password">Show password</string>
+    <string name="login_hide_password">Hide password</string>
+    <string name="login_demo_hint">Demo account: %1$s / %2$s</string>
+    <string name="login_error_email_empty">Enter your email</string>
+    <string name="login_error_email_malformed">Enter a valid email address</string>
+    <string name="login_error_password_empty">Enter your password</string>
+    <string name="login_error_password_too_short">Password must be at least %1$d characters</string>
+
+    <!-- Dashboard -->
+    <string name="dashboard_title">My Courses</string>
+    <string name="dashboard_empty_title">No courses yet</string>
+    <string name="dashboard_empty_body">Your enrolled courses will appear here once they are published.</string>
+    <string name="dashboard_refresh">Refresh</string>
+    <string name="dashboard_logout">Log out</string>
+    <string name="dashboard_simulate_failure_on">Simulate API failure: ON</string>
+    <string name="dashboard_simulate_failure_off">Simulate API failure: OFF</string>
+    <string name="dashboard_more_actions">More actions</string>
+
+    <!-- Course card / details -->
+    <string name="course_progress">%1$d%% complete</string>
+    <string name="course_lessons_progress">%1$d of %2$d lessons</string>
+    <string name="course_continue">Continue</string>
+    <string name="course_detail_title">Course</string>
+    <string name="course_detail_lessons_header">Lessons</string>
+    <string name="course_detail_not_found">This course is no longer available.</string>
+    <string name="lesson_completed">Completed</string>
+    <string name="lesson_pending">Pending</string>
+    <string name="lesson_mark_complete">Mark %1$s as completed</string>
+    <string name="lesson_mark_incomplete">Mark %1$s as not completed</string>
+    <string name="navigate_back">Back</string>
+
+    <!-- Shared state -->
+    <string name="state_loading">Loading</string>
+    <string name="state_retry">Retry</string>
+    <string name="offline_banner">You are offline. Showing saved courses.</string>
+    <string name="offline_stale_notice">Could not refresh. Showing saved courses.</string>
+
+    <!-- Errors -->
+    <string name="error_no_connection">No internet connection.</string>
+    <string name="error_server">Something went wrong on our side. Please try again.</string>
+    <string name="error_invalid_credentials">Email or password is incorrect.</string>
+    <string name="error_unexpected">Unexpected error. Please try again.</string>
+</resources>
